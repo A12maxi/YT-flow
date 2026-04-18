@@ -37,4 +37,4 @@ Al ejecutarlo, el programa organiza todo de la siguiente manera:
 Este software ha sido creado exclusivamente con fines **educativos y de uso personal**. El desarrollador no se hace responsable del uso indebido de esta herramienta. Por favor, respeta los derechos de autor de los creadores de contenido y los Términos de Servicio de las plataformas originales. No utilices este programa para descargar contenido protegido sin el permiso del propietario.
 
 ---
-Creado con ❤️ por A12maxi
+Creado por A12maxi
