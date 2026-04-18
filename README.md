@@ -2,7 +2,6 @@
 
 **YT-Flow** es una herramienta ligera y portátil diseñada para descargar vídeos y audio de YouTube de forma sencilla, organizada y rápida. El programa está optimizado para funcionar sin instalación (Portable), manteniendo todos sus archivos y descargas en una carpeta local para no ensuciar el sistema.
 
-![Icono de YT-Flow](YT-Flow.png)
 
 ## ✨ Características Principales
 
